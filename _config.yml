@@ -10,6 +10,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - faraday-retry
 
 # Optimize Jekyll
 exclude:
