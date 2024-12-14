@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Onur Serin
+url: https://serinonur.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Onur Serin
+  url: https://twitter.com/kyresse_
+  email: work@onurserin.co
 
 # Custom vars
 version: 3.0.0
