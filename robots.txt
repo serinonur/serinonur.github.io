@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://serinonur.github.io/serinonur//sitemap.xml
