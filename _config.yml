@@ -44,5 +44,11 @@ nav:
   - title: Blog
     url: /archive
 
+  - title: Deconstruction
+    url: /deconstruction
+
+  - title: CV
+    url: /cv
+
   - title: About
     url: /about
