@@ -41,11 +41,8 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /blog
-
-  - title: Case-Study
-    url: /case-study
+  - title: Study
+    url: /study
 
   - title: About
     url: /about
